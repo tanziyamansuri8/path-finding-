@@ -15,7 +15,7 @@
             "name": "PathFinding",
             "request": "launch",
             "mainClass": "PathFinding",
-            "projectName": "Path-Finding-master_683983ba"
+            "projectName": "Path-Finding"
         }
     ]
 }
